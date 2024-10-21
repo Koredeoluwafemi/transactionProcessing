@@ -1,0 +1,5 @@
+// Transaction ... this endpoint allows a user to transfer money from his account to another account
+// An endpoint to allow a user with an account number transfer money from his account to another account
+// for the sake of the demo, no charges is added, money will be debited to from the source account and
+// credited to the recipient account. A double ledger book account system will record the money movement
+// this endpoint assumes the recipient account number has been verified before using
